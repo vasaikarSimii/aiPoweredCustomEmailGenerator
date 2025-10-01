@@ -1,0 +1,13 @@
+[project]
+name = "job-cold-email-tool"
+version = "0.1.0"
+dependencies = [
+    "pandas",
+    "openpyxl",
+    "selenium",
+    "pyyaml",
+    "requests",
+    "serpapi",
+    "openai",
+    "msal"
+]
